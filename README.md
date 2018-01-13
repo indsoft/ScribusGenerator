@@ -1,3 +1,7 @@
+INFO
+===
+Forked from https://github.com/berteh/ScribusGenerator for internal use purposes.
+
 ScribusGenerator
 ================
 
